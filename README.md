@@ -83,3 +83,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 ![Updated repo]("/assets/img/repo-update-3.png")
 ![Updated homepage]("/assets/img/homepage-update-3.png")
+
+### Adding load more button
+
+![Updated repo]("/assets/img/repo-update-3.png")
+![Updated homepage]("/assets/img/homepage-update-4.png")
+![Updated homepage]("/assets/img/homepage-update-5.png")
