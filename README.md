@@ -67,25 +67,25 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 ### Updating README
 
-![Updated README file]("/assets/img/readme-update-1.png")
+![Updated README file](/assets/img/readme-update-1.png)
 
 ### Personalizing site
 
-![Updated repo]("/assets/img/repo-update.png")
-![Updated homepage]("/assets/img/homepage-update.png")
+![Updated repo](/assets/img/repo-update.png)
+![Updated homepage](/assets/img/homepage-update.png)
 
 ### Personalizing colours
 
-![Updated repo]("/assets/img/repo-update-2.png")
-![Updated homepage]("/assets/img/homepage-update-2.png")
+![Updated repo](/assets/img/repo-update-2.png)
+![Updated homepage](/assets/img/homepage-update-2.png)
 
 ### Adding map capability
 
-![Updated repo]("/assets/img/repo-update-3.png")
-![Updated homepage]("/assets/img/homepage-update-3.png")
+![Updated repo](/assets/img/repo-update-3.png)
+![Updated homepage](/assets/img/homepage-update-3.png)
 
 ### Adding load more button
 
-![Updated repo]("/assets/img/repo-update-3.png")
-![Updated homepage]("/assets/img/homepage-update-4.png")
-![Updated homepage]("/assets/img/homepage-update-5.png")
+![Updated repo](/assets/img/repo-update-3.png)
+![Updated homepage](/assets/img/homepage-update-4.png)
+![Updated homepage](/assets/img/homepage-update-5.png)
