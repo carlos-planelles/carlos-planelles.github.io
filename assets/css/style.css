@@ -522,6 +522,10 @@ a.hoverline:hover {
   margin-bottom: 0;
 }
 
+.btn-floating {
+  background-color: #5126a6;
+}
+
 #contact a:not(.btn-floating) {
   bottom: 6px;
   left: 20px;
