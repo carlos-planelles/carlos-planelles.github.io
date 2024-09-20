@@ -73,3 +73,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 ![Updated repo]("/assets/img/repo-update.png")
 ![Updated homepage]("/assets/img/homepage-update.png")
+
+### Personalizing colours
+
+![Updated repo]("/assets/img/repo-update-2.png")
+![Updated homepage]("/assets/img/homepage-update-2.png")
