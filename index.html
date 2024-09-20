@@ -68,6 +68,21 @@
   <meta name="google-site-verification" content="_qxK8tePiU2fhnwlwnJ7pkDFnj1k2EiKq_cYGy1Cb84" />
 </head>
 
+<script type="text/javascript">
+  function showMore() {
+    var button = document.getElementById("showMore");
+    var moreProjects = document.getElementById("moreProjects");
+
+    if (button.classList.contains("hide")) {
+      button.classList.remove("hide");
+      moreProjects.classList.add("hide");
+    } else {
+      moreProjects.classList.remove("hide");
+      button.classList.add("hide");
+    }
+  }
+</script>
+
 <body>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGZH8HT" height="0" width="0"
@@ -356,7 +371,9 @@
             </div>
           </div>
 
-          <div class="col s12 m6 l4">
+          <button onclick="showMore()" id="showMore">Load more</button>
+
+          <div class="col s12 m6 l4 hide" id="moreProjects">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
                 <img alt="Video Summarizer" src="/assets/img/computer-vision-v2-04.png"
