@@ -62,3 +62,9 @@ To view a live example, **[click here](https://carlos-planelles.github.io/)**
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+
+## Updates
+
+### Updating README
+
+![Updated README file]("/assets/img/readme-update-1.png")
