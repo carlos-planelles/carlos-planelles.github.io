@@ -68,3 +68,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 ### Updating README
 
 ![Updated README file]("/assets/img/readme-update-1.png")
+
+### Personalizing site
+
+![Updated repo]("/assets/img/repo-update.png")
+![Updated homepage]("/assets/img/homepage-update.png")
